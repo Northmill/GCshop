@@ -65,7 +65,6 @@ export default function RootLayout({ children }) {
                 { href: '/blog', label: 'Blog' },
                 { href: '/strains', label: 'Strains' },
                 { href: '/guide', label: 'Grow Guide' },
-                { href: '/merch', label: 'Merch' },
               ].map((link) => (
                 <li key={link.href}>
                   <a href={link.href} style={{

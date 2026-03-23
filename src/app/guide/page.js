@@ -80,7 +80,7 @@ export default function GuidePage() {
 
             <div style={{ display: 'flex', alignItems: 'baseline', gap: 8, marginBottom: 32 }}>
               <span style={{ fontFamily: 'var(--font-display)', fontSize: 56, color: 'var(--green-bright)', textShadow: '0 0 40px var(--green-glow)' }}>
-                €14.99
+                €9.99
               </span>
               <span style={{ fontFamily: 'var(--font-mono)', fontSize: 13, color: 'var(--text-dim)', textTransform: 'uppercase', letterSpacing: 2 }}>
                 one-time

@@ -77,7 +77,7 @@ export default async function BlogPost({ params }) {
             textTransform: 'uppercase', letterSpacing: 2,
             background: 'linear-gradient(135deg, var(--green-bright), var(--green))',
             color: '#fff',
-          }}>Download - €14.99</a>
+          }}>Download - €9.99</a>
         </div>
       </div>
     </article>
