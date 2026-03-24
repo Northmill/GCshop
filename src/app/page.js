@@ -108,39 +108,6 @@ export default function Home() {
         </section>
       )}
 
-      {/* EMAIL CAPTURE */}
-      <section style={{ padding: '120px 0', borderTop: '1px solid var(--border)' }}>
-        <div className="container">
-          <div style={{
-            background: 'var(--bg-card)', border: '1px solid var(--border)',
-            borderRadius: 'var(--radius)', padding: 64, textAlign: 'center',
-            position: 'relative', overflow: 'hidden',
-          }}>
-            <div style={{ position: 'absolute', top: -200, left: '50%', transform: 'translateX(-50%)', width: 600, height: 600, background: 'radial-gradient(circle, var(--green-glow) 0%, transparent 70%)', pointerEvents: 'none' }} />
-            <h2 style={{ fontFamily: 'var(--font-display)', fontSize: 'clamp(28px, 4vw, 44px)', color: 'var(--cream)', marginBottom: 16, position: 'relative' }}>
-              Get the free mini-guide
-            </h2>
-            <p style={{ fontSize: 16, color: 'var(--cream-dim)', maxWidth: 480, margin: '0 auto 36px', lineHeight: 1.7, position: 'relative' }}>
-              "5 Mistakes Every First-Time Grower Makes" - a free 8-page PDF straight to your inbox. No spam, no fluff.
-            </p>
-            <div style={{ display: 'flex', gap: 12, maxWidth: 480, margin: '0 auto', position: 'relative' }}>
-              <input type="email" placeholder="your@email.com" style={{
-                flex: 1, padding: '16px 24px', borderRadius: 60,
-                border: '1px solid rgba(255,255,255,0.1)',
-                background: 'rgba(0,0,0,0.5)', color: 'var(--cream)',
-                fontFamily: 'var(--font-body)', fontSize: 15, outline: 'none',
-              }} />
-              <button style={{
-                padding: '16px 32px', borderRadius: 60, border: 'none',
-                fontFamily: 'var(--font-mono)', fontSize: 13, fontWeight: 700,
-                textTransform: 'uppercase', letterSpacing: 2, cursor: 'pointer',
-                background: 'linear-gradient(135deg, var(--green-bright), var(--green))',
-                color: '#fff', whiteSpace: 'nowrap',
-              }}>Send It →</button>
-            </div>
-          </div>
-        </div>
-      </section>
     </>
   );
 }

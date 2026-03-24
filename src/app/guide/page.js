@@ -117,8 +117,8 @@ export default function GuidePage() {
                   Pay with Crypto
                 </div>
                 <p style={{ fontSize: 13, color: 'var(--cream-dim)', marginBottom: 24, lineHeight: 1.6 }}>
-                  Send $9.99 equivalent to one of the addresses below. Then email your transaction ID
-                  to <a href="mailto:info@gorillacookies.shop" style={{ color: 'var(--green-bright)' }}>info@gorillacookies.shop</a> and
+                  Send $9.99 equivalent to one of the addresses below. Then send your transaction ID
+                  to <a href="https://t.me/notjimcramer" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--green-bright)' }}>@notjimcramer on Telegram</a> and
                   we'll send your PDF within 24 hours.
                 </p>
                 <div style={{ display: 'flex', gap: 8, marginBottom: 24 }}>
@@ -162,7 +162,7 @@ export default function GuidePage() {
                     After payment
                   </div>
                   <p style={{ fontSize: 13, color: 'var(--cream-dim)', lineHeight: 1.6, margin: 0 }}>
-                    Email your tx hash to <strong style={{ color: 'var(--cream)' }}>info@gorillacookies.shop</strong> with the subject "Grow Bible". We verify and send the PDF within 24 hours.
+                    Send your tx hash to <strong style={{ color: 'var(--cream)' }}>@notjimcramer on Telegram</strong> We verify and send the PDF within 24 hours.
                   </p>
                 </div>
               </>

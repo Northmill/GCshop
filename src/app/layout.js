@@ -89,10 +89,10 @@ export default function RootLayout({ children }) {
             <div style={{ fontFamily: 'var(--font-mono)', fontSize: '12px', color: 'var(--text-dim)' }}>
               © 2026 Gorilla Cookies. All rights reserved.
             </div>
-            <a href="mailto:info@gorillacookies.shop" style={{
+            <a href="https://t.me/notjimcramer" style={{
               fontFamily: 'var(--font-mono)', fontSize: '12px',
               color: 'var(--text-dim)', letterSpacing: '1px',
-            }}>info@gorillacookies.shop</a>
+            }}>@notjimcramer</a>
           </div>
           <div className="container" style={{ marginTop: '16px' }}>
             <p style={{ fontFamily: 'var(--font-mono)', fontSize: '10px', color: 'var(--text-dim)', letterSpacing: '1px' }}>
