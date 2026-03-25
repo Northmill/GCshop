@@ -20,7 +20,7 @@ export default function Home() {
               <span style={{ color: 'var(--gold)' }}>Culture.</span>
             </h1>
             <p style={{ fontSize: 17, lineHeight: 1.7, color: 'var(--cream-dim)', maxWidth: 480, marginBottom: 40 }}>
-              Curated strain reviews with honest breakdowns. A grow guide that actually teaches you something. And merch that hits different.
+              Curated strain reviews, grow guides, and seed bank comparisons. No sponsored takes.
             </p>
             <div style={{ display: 'flex', gap: 16, flexWrap: 'wrap' }}>
               <a href="/strains" style={{
