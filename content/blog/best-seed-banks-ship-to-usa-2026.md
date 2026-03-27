@@ -32,7 +32,7 @@ ILGM is built for the American market. Free shipping to the US on every order, a
 
 **Top strains:** White Widow Auto, Gorilla Glue, Blue Dream, Northern Lights.
 
-[Shop ILGM Seeds →](#)
+[Shop ILGM Seeds](https://ilgm.com?aff=8067)
 
 ### 2. Seedsman
 
@@ -48,7 +48,7 @@ The largest selection of any seed bank, period. Seedsman carries genetics from h
 
 **Top strains:** Gorilla Cookies Auto (Fast Buds), Purple Punch (Barney's Farm), Amnesia Haze (Royal Queen Seeds).
 
-[Shop Seedsman Seeds →](#)
+[Shop Seedsman Seeds](https://ilgm.com?aff=8067)
 
 ### 3. North Atlantic Seed Co.
 
@@ -62,7 +62,7 @@ A US-based seed bank operating out of Maine. Domestic shipping means no customs,
 
 **Top strains:** Mephisto Genetics autos, Night Owl strains, Ethos Genetics photoperiods.
 
-[Shop North Atlantic Seeds →](#)
+[Shop North Atlantic Seeds](https://ilgm.com?aff=8067)
 
 ### 4. Multiverse Beans
 
@@ -74,7 +74,7 @@ Another US-based operation that has built a strong reputation through the Reddit
 
 **Best for:** Growers plugged into the Reddit/Discord community who want generous extras.
 
-[Shop Multiverse Beans →](#)
+[Shop Multiverse Beans](https://ilgm.com?aff=8067)
 
 ### 5. Fast Buds (direct)
 
@@ -90,7 +90,7 @@ If you specifically want autoflowering genetics, buying directly from Fast Buds 
 
 **Top strains:** Gorilla Cookies Auto, Purple Lemonade Auto, Wedding Cheesecake Auto.
 
-[Shop Fast Buds →](#)
+[Shop Fast Buds](https://ilgm.com?aff=8067)
 
 ### 6. Crop King Seeds
 
@@ -106,7 +106,7 @@ Canadian seed bank with established US shipping routes. They've been operating s
 
 **Top strains:** Jack Herer Auto, White Widow, Girl Scout Cookies.
 
-[Shop Crop King Seeds →](#)
+[Shop Crop King Seeds](https://ilgm.com?aff=8067)
 
 ## Seed banks we tested but don't recommend for US shipping
 

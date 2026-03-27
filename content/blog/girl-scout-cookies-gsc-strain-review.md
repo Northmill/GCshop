@@ -62,8 +62,8 @@ If you love GSC's flavor but want bigger yields and easier growing, Gorilla Cook
 
 GSC seeds are available from virtually every major seed bank. Autoflower versions are available for faster harvests, though the photoperiod version produces more complex flavors.
 
-[Find GSC Seeds at Seedsman ->](#)
-[Find GSC Seeds at ILGM ->](#)
+[Find GSC Seeds at ILGM](https://ilgm.com/products/girl-scout-cookies-feminized-seeds?aff=8067&variant=UHJvZHVjdFZhcmlhbnQ6NjM5&aff=8067)
+[Find GSC Seeds at ILGM](https://ilgm.com/products/girl-scout-cookies-feminized-seeds?aff=8067&variant=UHJvZHVjdFZhcmlhbnQ6NjM5&aff=8067)
 
 ## Verdict
 

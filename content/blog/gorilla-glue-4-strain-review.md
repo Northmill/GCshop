@@ -60,8 +60,8 @@ If you want maximum resin and a knockout body high, GG4 is the pick. If you want
 
 Most major seed banks carry GG4 genetics. Seedsman, ILGM, and Fast Buds all stock autoflower and photoperiod versions. The autoflower version finishes faster but produces slightly less resin than the photoperiod original.
 
-[Find GG4 Seeds at Seedsman ->](#)
-[Find GG4 Seeds at ILGM ->](#)
+[Find GG4 Seeds at ILGM](https://ilgm.com/products/gorilla-glue-autoflower-seeds?aff=8067&variant=UHJvZHVjdFZhcmlhbnQ6MjUw&aff=8067)
+[Find GG4 Seeds at ILGM](https://ilgm.com/products/gorilla-glue-autoflower-seeds?aff=8067&variant=UHJvZHVjdFZhcmlhbnQ6MjUw&aff=8067)
 
 ## Verdict
 

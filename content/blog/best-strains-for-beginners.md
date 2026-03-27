@@ -28,7 +28,7 @@ The gold standard for beginner grows. Northern Lights has been the go-to recomme
 
 The effects are classic indica: full body relaxation, stress relief, sleep support. Not the most exciting smoke for experienced users, but reliable and pleasant for everyone.
 
-[Find Northern Lights Auto seeds ->](#)
+[Find Northern Lights Auto seeds at ILGM](https://ilgm.com/products/northern-lights-autoflower-seeds?variant=UHJvZHVjdFZhcmlhbnQ6NzAw&aff=8067)
 
 ### 2. Gorilla Cookies Auto
 
@@ -40,7 +40,7 @@ The namesake strain of this site, and it earned its spot on this list legitimate
 
 The effects are balanced: euphoric and uplifting at first, settling into relaxation without heavy couch-lock. The flavor is sweet and earthy with diesel undertones.
 
-[Find Gorilla Cookies Auto seeds ->](#)
+[Find Gorilla Cookies Auto seeds at ILGM](https://ilgm.com/products/gorilla-glue-autoflower-seeds?aff=8067&variant=UHJvZHVjdFZhcmlhbnQ6MjUw&aff=8067)
 
 ### 3. Blue Dream Auto
 
@@ -52,7 +52,7 @@ One of the most popular strains in the US and one of the easiest to grow. Blue D
 
 The effects are balanced and gentle: sweet berry flavor, happy and relaxed mood, mild body buzz. A great daytime strain that doesn't overwhelm new consumers.
 
-[Find Blue Dream Auto seeds ->](#)
+[Find Blue Dream Auto seeds at ILGM](https://ilgm.com/products/blue-dream-autoflower-seeds?variant=UHJvZHVjdFZhcmlhbnQ6NzI=&aff=8067)
 
 ### 4. White Widow Auto
 
@@ -64,7 +64,7 @@ A Dutch coffeeshop classic that's been a staple since the 1990s. White Widow ear
 
 Effects are balanced with a slight sativa lean. Energetic and social at first, relaxing toward the end. Good for any time of day.
 
-[Find White Widow Auto seeds ->](#)
+[Find White Widow Auto seeds at ILGM](https://ilgm.com?aff=8067)
 
 ### 5. Amnesia Haze Auto
 
@@ -76,7 +76,7 @@ For beginners who want a sativa-leaning experience. The auto version of Amnesia 
 
 Effects are cerebral and energizing. Citrus and earthy flavor. A good daytime strain for focus and creativity.
 
-[Find Amnesia Haze Auto seeds ->](#)
+[Find Amnesia Haze Auto seeds at ILGM](https://ilgm.com/products/amnesia-haze-feminized-seeds?variant=UHJvZHVjdFZhcmlhbnQ6ODQw&aff=8067)
 
 ### 6. Critical Mass Auto
 
@@ -88,7 +88,7 @@ If you want the biggest yield possible from your first grow, Critical Mass is th
 
 Effects lean indica. Relaxing and calming with a sweet, earthy flavor. Good for evening use.
 
-[Find Critical Mass Auto seeds ->](#)
+[Find Critical Mass Auto seeds at ILGM](https://ilgm.com?aff=8067)
 
 ### 7. Jack Herer Auto
 
@@ -100,7 +100,7 @@ Named after the legendary cannabis activist, Jack Herer is a sativa-dominant cla
 
 Effects are uplifting and clear-headed. Spicy and piney flavor. A productive daytime strain.
 
-[Find Jack Herer Auto seeds ->](#)
+[Find Jack Herer Auto seeds at ILGM](https://ilgm.com?aff=8067)
 
 ### 8. Purple Punch Auto
 
@@ -112,7 +112,7 @@ For beginners who want something visually stunning. Purple Punch develops deep p
 
 Effects are heavily indica. Grape candy flavor with a knockout body high. Best for evening use and sleep.
 
-[Find Purple Punch Auto seeds ->](#)
+[Find Purple Punch Auto seeds at ILGM](https://ilgm.com/products/purple-punch-feminized-seeds?variant=UHJvZHVjdFZhcmlhbnQ6ODgz&aff=8067)
 
 ## Strains to avoid on your first grow
 
@@ -124,6 +124,6 @@ Stick with feminized autoflowers for grow number one. You can graduate to photop
 
 All the strains above are available from major seed banks. For beginners specifically, ILGM stands out because every order comes with a germination guarantee and free growing guides. Seedsman has the widest selection if you want to compare genetics across multiple breeders.
 
-[Shop beginner-friendly seeds at ILGM ->](#)
-[Browse autoflower seeds at Seedsman ->](#)
-[Shop Fast Buds autoflowers ->](#)
+[Shop beginner-friendly seeds at ILGM](https://ilgm.com?aff=8067)
+[Browse autoflower seeds at Seedsman](https://ilgm.com?aff=8067)
+[Shop Fast Buds autoflowers](https://ilgm.com?aff=8067)

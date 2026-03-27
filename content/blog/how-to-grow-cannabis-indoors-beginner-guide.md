@@ -88,8 +88,8 @@ Strong first-grow options: Northern Lights Auto (fast, low odor, bulletproof), G
 
 All of these are available from major seed banks like ILGM, Seedsman, and Fast Buds.
 
-[Browse beginner-friendly seeds at ILGM ->](#)
-[Browse autoflower seeds at Seedsman ->](#)
+[Browse beginner-friendly seeds at ILGM](https://ilgm.com?aff=8067)
+[Browse autoflower seeds at Seedsman](https://ilgm.com?aff=8067)
 
 ## Next steps
 
